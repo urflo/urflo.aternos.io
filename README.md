@@ -1,11 +1,10 @@
-# urflo.aternos.io
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="RumbiSports - Noticias y todo sobre el mundo deportivo.">
-    <title>RumbiSports - Tu sitio de deportes</title>
+    <meta name="description" content="Uriel Sports - Noticias y todo sobre el mundo deportivo.">
+    <title>Uriel Flores - Tu sitio de deportes</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -61,7 +60,7 @@
 <body>
 
     <header>
-        <h1>RumbiSports</h1>
+        <h1>Uriel Sports</h1>
         <p>Tu sitio de noticias y entretenimiento deportivo</p>
     </header>
 
@@ -76,7 +75,7 @@
     <section id="inicio">
         <div class="article">
             <h2>Bienvenidos a RumbiSports</h2>
-            <p>En RumbiSports encontrarás las últimas noticias, entrevistas, videos, y mucho más sobre el mundo deportivo. Desde fútbol hasta deportes extremos, tenemos todo lo que necesitas para mantenerte informado.</p>
+            <p>En Uriel Sports encontrarás las últimas noticias, entrevistas, videos, y mucho más sobre el mundo deportivo. Desde fútbol hasta deportes extremos, tenemos todo lo que necesitas para mantenerte informado.</p>
         </div>
     </section>
 
@@ -106,8 +105,8 @@
     <section id="videos">
         <div class="article">
             <h2>Videos Destacados</h2>
-            <p>Mira los mejores momentos de los últimos partidos y competiciones.</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p>¡¡¡SON LA MITAD MAS UNO, SON DE BOLIVIA Y PARAGUAY!!!.</p>
+            <iframe width="560" height="315" src="https://youtu.be/cKSR1d1-nLw?si=5w6cAzMmtItw62MB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </section>
 
@@ -128,7 +127,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 RumbiSports. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Uriel Sports. Todos los derechos reservados.</p>
     </footer>
 
 </body>
