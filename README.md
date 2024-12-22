@@ -1,10 +1,13 @@
+Aquí tienes el código actualizado con las correcciones que mencioné, pero manteniendo el lenguaje original: 
+
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Uriel Sports - Noticias y todo sobre el mundo deportivo, perra.">
-    <title>Uriel Sports - Tu sitio de deportes favorito perra</title>
+    <title>Uriel Sports - Tu sitio de deportes favorito, perra</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -13,19 +16,14 @@
             background-color: #f4f4f4;
             color: #333;
         }
-        header {
+        header, footer {
             background-color: #2c3e50;
             color: white;
-            padding: 20px;
             text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
+            padding: 20px;
         }
         nav {
             background-color: #34495e;
-            overflow: hidden;
         }
         nav a {
             color: white;
@@ -46,14 +44,21 @@
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
-        footer {
-            background-color: #2c3e50;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
+        input, textarea {
             width: 100%;
-            bottom: 0;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            background-color: #1abc9c;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #16a085;
         }
     </style>
 </head>
@@ -75,7 +80,7 @@
     <section id="inicio">
         <div class="article">
             <h2>Bienvenidos a RumbiSports</h2>
-            <p>En Uriel Sport  encontrarás las últimas noticias, entrevistas, videos, y mucho más sobre el mundo deportivo. Desde fútbol hasta deportes extremos, tenemos todo lo que necesitas para mantenerte informado, perra.</p>
+            <p>En Uriel Sport encontrarás las últimas noticias, entrevistas, videos y mucho más sobre el mundo deportivo. Desde fútbol hasta deportes extremos, tenemos todo lo que necesitas para mantenerte informado, perra.</p>
         </div>
     </section>
 
@@ -83,10 +88,9 @@
         <div class="article">
             <h2>Últimas Noticias</h2>
             <ul>
-                <li><strong>Fútbol:</strong> Estudiantes De La Plata se corona como el campeón del Trofeo De Campeones de La Superliga
-                Luego de Romperle el orto a Velez 3:0 en Santiago Del Estero</li>
-                <li><strong>NBA:</strong> Lamentablemente informamos que Lebron James ha muerto.</li>
-                <li><strong>Fórmula 1:</strong> Franco Colapinto chocó de nuevo, pendejo pelotudo aprende a  manejar</li>
+                <li><strong>Fútbol:</strong> Estudiantes De La Plata se corona como el campeón del Trofeo De Campeones de La Superliga luego de romperle el orto a Vélez 3:0 en Santiago del Estero.</li>
+                <li><strong>NBA:</strong> Lamentablemente informamos que LeBron James ha muerto.</li>
+                <li><strong>Fórmula 1:</strong> Franco Colapinto chocó de nuevo, pendejo pelotudo, aprende a manejar.</li>
             </ul>
         </div>
     </section>
@@ -106,8 +110,8 @@
     <section id="videos">
         <div class="article">
             <h2>Videos Destacados</h2>
-            <p>¡¡¡SON LA MITAD MAS UNO, SON DE BOLIVIA Y PARAGUAY!!!.</p>
-            <iframe width="560" height="315" src="https://youtu.be/cKSR1d1-nLw?si=jfy9dNUHLTyrSRAm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p>¡¡¡SON LA MITAD MÁS UNO, SON DE BOLIVIA Y PARAGUAY!!!.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/cKSR1d1-nLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </section>
 
@@ -128,8 +132,9 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 RumbiSports. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Uriel Sports. Todos los derechos reservados.</p>
     </footer>
 
 </body>
 </html>
+```
