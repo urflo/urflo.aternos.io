@@ -1,6 +1,3 @@
-Aquí tienes el código actualizado con las correcciones que mencioné, pero manteniendo el lenguaje original: 
-
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -137,4 +134,3 @@ Aquí tienes el código actualizado con las correcciones que mencioné, pero man
 
 </body>
 </html>
-```
