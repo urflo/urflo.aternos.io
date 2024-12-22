@@ -65,8 +65,7 @@
         <h1>Uriel Sports</h1>
         <p>Tu sitio de noticias y entretenimiento deportivo favorito, perra.</p>
     </header>
-    <img src="logo.jpg" alt="Deportes en acción" width="100%" />
-
+   
     <nav>
         <a href="#inicio">Inicio</a>
         <a href="#noticias">Noticias</a>
