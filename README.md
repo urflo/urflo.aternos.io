@@ -88,6 +88,7 @@
                 <li><strong>Fútbol:</strong> Estudiantes De La Plata se corona como el campeón del Trofeo De Campeones de La SuperJiJa luego de romperle el orto a Vélez 3:0 en Santiago del Estero.</li>
                 <img src="estudiantes campeon.jpg" alt="Descripción de la imagen" width="300" height="200">
                 <li><strong>NBA:</strong> Lamentablemente informamos que LeBron James ha fallecido debido a que comió un pancho en mal estado en la estación de Villa Luro de la línea Sarmiento.</li>
+                </li><strong> Manu Ginobili dio las siguientes declaraciones sobre  LeBron James: "Ese negro pelotudo para lo unico que tiene las manos es para comer" mientras hacia gestos imitando a un mono 🐒🐒🐒
                 <li><strong>Fórmula 1:</strong> Franco Colapinto chocó de nuevo, pendejo pelotudo, aprende a manejar.</li>
             </ul>
         </div>
@@ -100,7 +101,7 @@
             <ul>
                 <li><strong>Real Madrid</strong> - Salida: Mbappé > Sarmiento de Junín 135m usd    .</li>
                 <li><strong>River Plate</strong> - entrada: Messi<Inter de Miami 50 mangos y un paquete de yerba cachamate</li>
-                <li><strong>Bokuka Jijuniors</strong> - Pablo Perez </li>
+                <li><strong>Bokuka Jijuniors</strong> - Pablo Perez por 1 docena de facturas y un smart tv samsung 80' 8k HDR </li>
             </ul>
         </div>
     </section>
@@ -108,7 +109,7 @@
     <section id="videos">
         <div class="article">
             <h2>Videos Destacados</h2>
-            <p>¡¡¡SON LA MITAD MÁS UNO, SON DE BOLIVIA Y PARAGUAY!!!.</p>
+            <p>¡¡¡SON LA MITAD MÁS UNO, SON DE BOLIVIA Y PARAGUAY, BOCA QUE ASCO TE TENGO, LAVATE EL CULO CON AGUARRAAAAAAS!!! La hinchada de EL Millonario le dedica una cancion a la aficion de boca.</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/cKSR1d1-nLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </section>
