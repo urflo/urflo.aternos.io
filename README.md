@@ -76,7 +76,7 @@
 
     <section id="inicio">
         <div class="article">
-            <h2>Bienvenidos a RumbiSports</h2>
+            <h2>Bienvenidos a Uriel Sports</h2>
             <p>En Uriel Sport encontrarás las últimas noticias, entrevistas, videos y mucho más sobre el mundo deportivo. Desde fútbol hasta deportes extremos, tenemos todo lo que necesitas para mantenerte informado, perra.</p>
         </div>
     </section>
@@ -85,8 +85,9 @@
         <div class="article">
             <h2>Últimas Noticias</h2>
             <ul>
-                <li><strong>Fútbol:</strong> Estudiantes De La Plata se corona como el campeón del Trofeo De Campeones de La Superliga luego de romperle el orto a Vélez 3:0 en Santiago del Estero.</li>
-                <li><strong>NBA:</strong> Lamentablemente informamos que LeBron James ha muerto.</li>
+                <li><strong>Fútbol:</strong> Estudiantes De La Plata se corona como el campeón del Trofeo De Campeones de La SuperJiJa luego de romperle el orto a Vélez 3:0 en Santiago del Estero.</li>
+                <img src="estudiantes campeon.jpg" alt="Descripción de la imagen" width="300" height="200">
+                <li><strong>NBA:</strong> Lamentablemente informamos que LeBron James ha fallecido debido a que comió un pancho en mal estado en la estación de Villa Luro de la línea Sarmiento.</li>
                 <li><strong>Fórmula 1:</strong> Franco Colapinto chocó de nuevo, pendejo pelotudo, aprende a manejar.</li>
             </ul>
         </div>
@@ -94,12 +95,12 @@
 
     <section id="equipos">
         <div class="article">
-            <h2>Equipos y Jugadores</h2>
-            <p>Aquí puedes conocer a los equipos más destacados y sus jugadores. Desde los equipos más populares en fútbol, hasta las estrellas de la NBA, MLB, y mucho más, perra.</p>
+            <h2>Nuevos Fichajes</h2>
+            <p>Aquí puedes conocer las transacciones destacadas de jugadores destacadas. De los equipos más populares en fútbol.</p>
             <ul>
-                <li><strong>Real Madrid</strong> - Jugadores como Bellingham, Monícius Jr.</li>
-                <li><strong>Los Angeles Lakers</strong> - LeBron James, Anthony Davis.</li>
-                <li><strong>Yankees de Nueva York</strong> - Aaron Judge, Gerrit Cole.</li>
+                <li><strong>Real Madrid</strong> - Salida: Mbappé > Sarmiento de Junín 135m usd    .</li>
+                <li><strong>River Plate</strong> - entrada: Messi<Inter de Miami 50 mangos y un paquete de yerba cachamate</li>
+                <li><strong>Bokuka Jijuniors</strong> - Pablo Perez </li>
             </ul>
         </div>
     </section>
