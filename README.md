@@ -90,7 +90,9 @@
                 <li><strong>NBA:</strong> Lamentablemente informamos que LeBron James ha fallecido debido a que comió un pancho en mal estado en la estación de Villa Luro de la línea Sarmiento.</li>
                 <img src="lebron-james.jpg" alt"Le Bron James" width="300" height="200">
                 <li><strong>Manu Ginobili</strong> dio las siguientes declaraciones sobre LeBron James: "Ese negro pelotudo para lo unico que tenia las manos era para comer bananas" mientras hacia repetidos gestos imitando a un mono 🐒🐒🐒.</li>
+                <img src="ginobillo.jpg" alt"Ginobilli y Le Bron James" width="300" height="200">
                 <li><strong>Fórmula 1:</strong> Franco Colapinto chocó de nuevo, pendejo pelotudo, aprende a manejar.</li>
+                <img src="choque colapinto.jpg" alt"Choque de Colapinto" width="300" height="200">
             </ul>
         </div>
     </section>
