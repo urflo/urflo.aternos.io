@@ -87,7 +87,7 @@
             <ul>
                 <li><strong>Fútbol:</strong> Estudiantes De La Plata se corona como el campeón del Trofeo De Campeones de La SuperJiJa luego de romperle el orto a Vélez 3:0 en Santiago del Estero.</li>
                 <img src="estudiantes campeon.jpg" alt="Descripción de la imagen" width="300" height="200">
-                <li><strong>NBA:</strong> Lamentablemente informamos que LeBron James ha fallecido debido a que comió un pancho en mal estado en la estación de Villa Luro de la línea Sarmiento.</li>
+                <li><strong>NBA:</strong> Lamentablemente informamos que <strong>LeBron James</strong> ha fallecido debido a que comió un pancho en mal estado en la estación de trenes de la linea sarmiento <strong>Villa Luro.</strong></li>
                 <img src="lebron-james.jpg" alt="Le Bron James" width="300" height="200">
                 <li><strong>Manu Ginobili</strong> dio las siguientes declaraciones sobre LeBron James: "Ese negro pelotudo para lo unico que tenia las manos era para comer bananas" mientras hacia repetidos gestos imitando a un mono 🐒🐒🐒.</li>
                 <img src="ginobillo.jpg" alt="Ginobilli y Le Bron James" width="300" height="200">
