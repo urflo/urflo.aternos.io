@@ -90,7 +90,7 @@
                 <li><strong>NBA:</strong> Lamentablemente informamos que <strong>LeBron James</strong> ha fallecido debido a que comió un pancho en mal estado en la estación de trenes de la linea sarmiento <strong>Villa Luro.</strong></li>
                 <img src="lebron-james.jpg" alt="Le Bron James" width="300" height="200">
                 <li><strong>Manu Ginobili</strong> dio las siguientes declaraciones sobre LeBron James: "Ese negro pelotudo para lo unico que tenia las manos era para comer bananas" mientras hacia repetidos gestos imitando a un mono 🐒🐒🐒.</li>
-                <img src="ginobillo.jpg" alt="Ginobilli y Le Bron James" width="300" height="200">
+                <img src="ginobili.jpg" alt="Ginobili y Le Bron James" width="300" height="200">
                 <li><strong>Fórmula 1:</strong> Franco Colapinto chocó de nuevo, pendejo pelotudo, aprende a manejar.</li>
                 <img src="choque colapinto.jpg" alt="Choque de Colapinto" width="300" height="200">
             </ul>
@@ -102,9 +102,12 @@
             <h2>Nuevos Fichajes</h2>
             <p>Aquí puedes conocer las transacciones destacadas de jugadores destacadas. De los equipos más populares en fútbol.</p>
             <ul>
-                <li><strong>Real Madrid</strong> - Salida: Mbappé > Sarmiento de Junín 135m usd    .</li>
+                <li><strong>Real Madrid</strong> - Salida: Mbappé > Sarmiento de Junín 135m usd.</li>
+                 <img src="mbappe.jpg" alt="Mbappé a Sarmiento" width="300" height="200">
                 <li><strong>River Plate</strong> - entrada: Messi<Inter de Miami 50 mangos y un paquete de yerba cachamate</li>
+                 <img src="messi river.jpg" alt="Messi a River" width="300" height="200">
                 <li><strong>Bokuka Jijuniors</strong> - Pablo Perez por 1 docena de facturas y un smart tv samsung 80' 8k HDR </li>
+                 <img src="pablo perez.jpg" alt="pablo perez a boca" width="300" height="200">
             </ul>
         </div>
     </section>
