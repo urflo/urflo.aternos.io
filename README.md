@@ -106,7 +106,7 @@
                  <img src="mbappe.jpg" alt="Mbappé a Sarmiento" width="300" height="200">
                 <li><strong>River Plate</strong> - entrada: Messi<Inter de Miami 50 mangos y un paquete de yerba cachamate</li>
                  <img src="messi river.jpg" alt="Messi a River" width="300" height="200">
-                <li><strong>Bokuka Jijuniors</strong> - Pablo Perez por 1 docena de facturas y un smart tv samsung 80' 8k HDR </li>
+                <li><strong>Bokuka Jijuniors</strong> - Pablo Perez vuelve del retiro su sueldo es 1 docena de facturas los martes y jueves y un asado con riquelme al mes </li>
                  <img src="pablo perez.jpg" alt="pablo perez a boca" width="300" height="200">
             </ul>
         </div>
@@ -115,7 +115,7 @@
     <section id="videos">
         <div class="article">
             <h2>Videos Destacados</h2>
-            <p>¡¡¡SON LA MITAD MÁS UNO, SON DE BOLIVIA Y PARAGUAY, BOCA QUE ASCO TE TENGO, LAVATE EL CULO CON AGUARRAAAAAAS!!! La hinchada de EL Millonario le dedica una cancion a la aficion de boca.</p>
+            <p>¡¡¡SON LA MITAD MÁS UNO, SON DE BOLIVIA Y PARAGUAY, BOCA QUE ASCO TE TENGO, LAVATE EL CULO CON AGUARRAAAAAAS!!! Los Borrachos del Tablon le dedican una cancion a la 12.</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/cKSR1d1-nLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </section>
